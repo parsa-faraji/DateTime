@@ -1,0 +1,62 @@
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon?
+._*
+
+# Thumbnails
+._.DS_Store
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Xcode specific files
+## Build generated files
+build/
+DerivedData/
+.idea/
+xcuserdata/
+*.xcuserstate
+*.swp
+*.lock
+
+# Project-specific files
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Device-specific files
+*.xcuserdatad
+
+# Debug symbols
+*.dSYM
+
+# Workspace settings
+*.xcworkspace/
+xcshareddata/
+
+# Generated Schemes
+xcshareddata/xcschemes/*
+!xcshareddata/xcschemes/.keep
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# CocoaPods
+Pods/
